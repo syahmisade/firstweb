@@ -9,6 +9,7 @@ export default function Home() {
           <ul className="flex space-x-6">
             <li><Link href="/blog">Blog</Link></li>
             <li><Link href="/portfolio">Portfolio</Link></li>
+            <li><Link href="/oriindex">Example</Link></li>
           </ul>
         </nav>
       </header>
