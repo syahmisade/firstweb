@@ -13,3 +13,6 @@ Important notes:
 - "scripts": {
     "dev":"nodemon backend/index.js"
   }, -> Just learned about this ehek
+
+Timestaps:
+- 6:05PM(Signup Endpoint;26:18) 
